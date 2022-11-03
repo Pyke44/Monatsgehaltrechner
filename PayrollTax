@@ -1,0 +1,75 @@
+using System;
+
+public class Program
+{
+    public static void Main()
+    {
+        int[,] PayrollTax = new int[26, 5];
+
+        void FillArray(){
+            PayrollTax[0,0] = 0;
+            PayrollTax[0,1] = 0;
+            PayrollTax[0,2] = 0;
+            PayrollTax[0,3] = 0;
+            PayrollTax[0,4] = 0;
+            PayrollTax[0,5] = 0;
+            PayrollTax[1,0] = 0;
+            PayrollTax[1,1] = 0;
+            PayrollTax[1,2] = 0;
+            PayrollTax[1,3] = 0;
+            PayrollTax[1,4] = 0;
+            PayrollTax[1,5] = 0;
+            PayrollTax[2,0] = 0;
+            PayrollTax[2,1] = 0;
+            PayrollTax[2,2] = 0;
+            PayrollTax[2,3] = 0;
+            PayrollTax[2,4] = 0;
+            PayrollTax[2,5] = 0;
+            PayrollTax[3,0] = 0;
+            PayrollTax[3,1] = 0;
+            PayrollTax[3,2] = 0;
+            PayrollTax[3,3] = 0;
+            PayrollTax[3,4] = 0;
+            PayrollTax[3,5] = 0;
+            PayrollTax[4,0] = 0;
+            PayrollTax[4,1] = 0;
+            PayrollTax[4,2] = 0;
+            PayrollTax[4,3] = 0;
+            PayrollTax[4,4] = 0;
+            PayrollTax[4,5] = 0;
+            PayrollTax[5,0] = 0;
+            PayrollTax[5,1] = 0;
+            PayrollTax[5,2] = 0;
+            PayrollTax[5,3] = 0;
+            PayrollTax[5,4] = 0;
+            PayrollTax[5,5] = 0;
+            PayrollTax[6,0] = 0;
+            PayrollTax[6,1] = 0;
+            PayrollTax[6,2] = 0;
+            PayrollTax[6,3] = 0;
+            PayrollTax[6,4] = 0;
+            PayrollTax[6,5] = 0;
+            PayrollTax[7,0] = 0;
+            PayrollTax[7,1] = 0;
+            PayrollTax[7,2] = 0;
+            PayrollTax[7,3] = 0;
+            PayrollTax[7,4] = 0;
+            PayrollTax[7,5] = 0;
+            PayrollTax[8,0] = 0;
+            PayrollTax[8,1] = 0;
+            PayrollTax[8,2] = 0;
+            PayrollTax[8,3] = 0;
+            PayrollTax[8,4] = 0;
+            PayrollTax[8,5] = 0;            
+            PayrollTax[,0] = 0;
+            PayrollTax[,1] = 0;
+            PayrollTax[,2] = 0;
+            PayrollTax[,3] = 0;
+            PayrollTax[,4] = 0;
+            PayrollTax[,5] = 0;
+
+            
+
+        }
+    }
+}
